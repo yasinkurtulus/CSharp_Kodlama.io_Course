@@ -1,0 +1,12 @@
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\bin\Debug\netcoreapp3.1\Csharp_Giris.exe
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\bin\Debug\netcoreapp3.1\Csharp_Giris.deps.json
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\bin\Debug\netcoreapp3.1\Csharp_Giris.runtimeconfig.json
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\bin\Debug\netcoreapp3.1\Csharp_Giris.runtimeconfig.dev.json
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\bin\Debug\netcoreapp3.1\Csharp_Giris.dll
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\bin\Debug\netcoreapp3.1\Csharp_Giris.pdb
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\obj\Debug\netcoreapp3.1\Csharp_Giris.AssemblyInfoInputs.cache
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\obj\Debug\netcoreapp3.1\Csharp_Giris.AssemblyInfo.cs
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\obj\Debug\netcoreapp3.1\Csharp_Giris.csproj.CoreCompileInputs.cache
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\obj\Debug\netcoreapp3.1\Csharp_Giris.dll
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\obj\Debug\netcoreapp3.1\Csharp_Giris.pdb
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\Csharp_Giris\obj\Debug\netcoreapp3.1\Csharp_Giris.genruntimeconfig.cache
