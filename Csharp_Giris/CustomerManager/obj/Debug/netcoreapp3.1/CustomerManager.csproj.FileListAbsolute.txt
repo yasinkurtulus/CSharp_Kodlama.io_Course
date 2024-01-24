@@ -1,0 +1,13 @@
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\bin\Debug\netcoreapp3.1\CustomerManager.exe
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\bin\Debug\netcoreapp3.1\CustomerManager.deps.json
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\bin\Debug\netcoreapp3.1\CustomerManager.runtimeconfig.json
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\bin\Debug\netcoreapp3.1\CustomerManager.runtimeconfig.dev.json
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\bin\Debug\netcoreapp3.1\CustomerManager.dll
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\bin\Debug\netcoreapp3.1\CustomerManager.pdb
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\obj\Debug\netcoreapp3.1\CustomerManager.csprojAssemblyReference.cache
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\obj\Debug\netcoreapp3.1\CustomerManager.AssemblyInfoInputs.cache
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\obj\Debug\netcoreapp3.1\CustomerManager.AssemblyInfo.cs
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\obj\Debug\netcoreapp3.1\CustomerManager.csproj.CoreCompileInputs.cache
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\obj\Debug\netcoreapp3.1\CustomerManager.dll
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\obj\Debug\netcoreapp3.1\CustomerManager.pdb
+D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\CustomerManager\obj\Debug\netcoreapp3.1\CustomerManager.genruntimeconfig.cache
