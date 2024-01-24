@@ -6,6 +6,7 @@ namespace Csharp_Giris
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Hello World!");
             string kurs1 = "java kursu";
             string kurs2 = "phyton kursu";
@@ -20,6 +21,7 @@ namespace Csharp_Giris
             {
                 Console.WriteLine(i);
             }
+            kurs1 
 
         }
     }
