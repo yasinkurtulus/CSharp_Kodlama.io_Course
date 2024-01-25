@@ -21,6 +21,7 @@ namespace CustomerManager
                 customer.name = csname;
                 customer.id = csid;
                 customerAdd(customer, customers,i);
+              
             }
             showAllCustomers(customers);
             
@@ -43,6 +44,7 @@ namespace CustomerManager
                 Console.WriteLine(item.name);
             }
         }
+     
     }
    
 }

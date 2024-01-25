@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product", "Product\Product.csproj", "{B8DDF3BB-68E2-4836-8286-DC25A46246D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManager", "ProductManager\ProductManager.csproj", "{64EACB2E-10D8-496E-AC26-973CAE231CDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManager", "ProductManager\ProductManager.csproj", "{64EACB2E-10D8-496E-AC26-973CAE231CDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerManager", "CustomerManager\CustomerManager.csproj", "{479234EA-A6A8-4DB0-960D-50D4A864200D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerManager", "CustomerManager\CustomerManager.csproj", "{479234EA-A6A8-4DB0-960D-50D4A864200D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyList", "MyList\MyList.csproj", "{323B1783-C308-4C4A-AD74-8A0FD049A1EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryClass", "DictionaryClass\DictionaryClass.csproj", "{E9A944BE-D44A-48B5-A3F9-D71F5EF85BC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{479234EA-A6A8-4DB0-960D-50D4A864200D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{479234EA-A6A8-4DB0-960D-50D4A864200D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{479234EA-A6A8-4DB0-960D-50D4A864200D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323B1783-C308-4C4A-AD74-8A0FD049A1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323B1783-C308-4C4A-AD74-8A0FD049A1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323B1783-C308-4C4A-AD74-8A0FD049A1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323B1783-C308-4C4A-AD74-8A0FD049A1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A944BE-D44A-48B5-A3F9-D71F5EF85BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A944BE-D44A-48B5-A3F9-D71F5EF85BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A944BE-D44A-48B5-A3F9-D71F5EF85BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A944BE-D44A-48B5-A3F9-D71F5EF85BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
