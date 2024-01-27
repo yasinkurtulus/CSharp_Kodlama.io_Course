@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryClass", "Dictiona
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankSystem", "BankSystem\BankSystem.csproj", "{E4851790-0C7D-4D8C-BD3C-25E53FDEB23A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeProject", "CafeProject\CafeProject.csproj", "{82596421-69ED-4A23-8768-2255E964F359}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CafeProject", "CafeProject\CafeProject.csproj", "{82596421-69ED-4A23-8768-2255E964F359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{1E02E413-49B8-4189-8E38-CAC66A4567F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{82596421-69ED-4A23-8768-2255E964F359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82596421-69ED-4A23-8768-2255E964F359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82596421-69ED-4A23-8768-2255E964F359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E02E413-49B8-4189-8E38-CAC66A4567F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E02E413-49B8-4189-8E38-CAC66A4567F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E02E413-49B8-4189-8E38-CAC66A4567F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E02E413-49B8-4189-8E38-CAC66A4567F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

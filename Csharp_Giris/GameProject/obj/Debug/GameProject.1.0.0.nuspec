@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GameProject</id>
+    <version>1.0.0</version>
+    <authors>GameProject</authors>
+    <owners>GameProject</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json" target="lib\netcoreapp3.1\GameProject.runtimeconfig.json" />
+    <file src="D:\Github\CSharp_Kodlama.io_Course\Csharp_Giris\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll" target="lib\netcoreapp3.1\GameProject.dll" />
+  </files>
+</package>

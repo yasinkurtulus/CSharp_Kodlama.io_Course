@@ -28,6 +28,7 @@ namespace CafeProject.Concrete
         }
         public override void BuyCoffe(Customer customer)
         {
+            base.BuyCoffe(customer);
             customer.Stars++;
             Console.WriteLine("Customer won a star");
             Console.WriteLine("Customer has"+customer.Stars+" star");
